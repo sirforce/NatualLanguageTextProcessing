@@ -7,14 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="163a9b73-deca-401a-9cec-87da3a8dcd81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NaturalLanguageTextQueryProcessing.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NaturalLanguageTextQueryProcessing.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QueryValidator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QueryValidatorResult.cs" afterDir="false" />
-    </list>
+    <list default="true" id="163a9b73-deca-401a-9cec-87da3a8dcd81" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723493260716</updated>
-      <workItem from="1723493261900" duration="2505000" />
+      <workItem from="1723493261900" duration="2814000" />
     </task>
     <servers />
   </component>
