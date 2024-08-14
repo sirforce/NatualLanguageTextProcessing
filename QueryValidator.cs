@@ -2,13 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
+using NaturalLanguageTextQueryProcessing;
 
-public class QueryValidatorResult
-{
-    public bool IsValid { get; set; }
-    public string ErrorMessage { get; set; }
-    public string ProcessedText { get; set; }
-}
 
 public class QueryValidator
 {
